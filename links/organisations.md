@@ -12,10 +12,12 @@
 
 ## Learning
 * [Girl Geek Academy](http://girlgeekacademy.com/)
+* [17 PLACES WHERE WOMEN CAN LEARN HOW TO CODE ](https://learntocodewith.me/posts/13-places-women-learn-code/)
 
 ## Internships
 * [Outreachy](https://www.outreachy.org/)
 * [Rails Girls SummerCamp of Code](https://railsgirlssummerofcode.org/)
+* [Ada Developers Academy](https://www.adadevelopersacademy.org/)
 
 ## Scholarship
 * [Overview Diversity Tickets](https://diversitytickets.org/)
