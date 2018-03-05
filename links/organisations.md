@@ -1,6 +1,11 @@
-# Networks
+## Networks
 * [Panda Network](http://www.we-are-panda.com/)
 * [Global Digital Women](https://global-digital-women.com/)
+* [Woman in Techmakers](https://www.womentechmakers.com/)
+* [SAP Business Womens Network](https://blogs.sap.com/2016/12/13/sap-business-womens-network-who-we-are-and-what-we-do/)
+* [GirlDevelopIt](https://www.girldevelopit.com/)
+## Coding
+
 
 ## Internships
 * [Outreachy](https://www.outreachy.org/)
