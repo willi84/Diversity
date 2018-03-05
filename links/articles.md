@@ -10,3 +10,4 @@
 
 ## Game Changers
 * [Award 2018](https://editionf.com/25-frauen-award-2018-jury-und-nominierungsstart)
+* [female Innovators](http://www.spiegel.de/netzwelt/web/walter-isaacson-steve-jobs-biograph-veroeffentlicht-the-innovators-a-1002911.html)
