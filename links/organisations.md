@@ -4,6 +4,7 @@
 
 ## Internships
 * [Outreachy](https://www.outreachy.org/)
+* [Rails Girls SummerCamp of Code](https://railsgirlssummerofcode.org/)
 
 ## Scholarship
 * [Overview Diversity Tickets](https://diversitytickets.org/)
