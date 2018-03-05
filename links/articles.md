@@ -18,6 +18,9 @@
 * [female Innovators](http://www.spiegel.de/netzwelt/web/walter-isaacson-steve-jobs-biograph-veroeffentlicht-the-innovators-a-1002911.html)
 * [„Weil Frauen mutig nach vorne gehen”: Das steckt hinter der Female Future Force](https://t3n.de/news/female-future-force-crowdfunding-812652/)
 
+## Google Memo
+* [original memo](https://gizmodo.com/exclusive-heres-the-full-10-page-anti-diversity-screed-1797564320/amp)
+
 ## Other
 * [Das Dilemma der Frauen beim Thema Selbstvertrauen](https://www.welt.de/icon/article153887198/Das-Dilemma-der-Frauen-beim-Thema-Selbstvertrauen.html)
 * 
