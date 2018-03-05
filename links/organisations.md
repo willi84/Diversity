@@ -4,9 +4,13 @@
 * [Woman in Techmakers](https://www.womentechmakers.com/)
 * [SAP Business Womens Network](https://blogs.sap.com/2016/12/13/sap-business-womens-network-who-we-are-and-what-we-do/)
 * [GirlDevelopIt](https://www.girldevelopit.com/)
+* [Women in Technology](http://www.womenintechnology.org/)
 ## Coding
 * [DjangoGirls](https://djangogirls.org/)
 * [Rails Girls](http://railsgirls.com/)  => ( [Berlin](http://railsgirlsberlin.de/)]
+
+## Learning
+* [Girl Geek Academy](http://girlgeekacademy.com/)
 
 ## Internships
 * [Outreachy](https://www.outreachy.org/)
