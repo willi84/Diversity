@@ -7,6 +7,7 @@
 ## Diversity Management
 * [Maxine Williams](http://www.handelsblatt.com/my/unternehmen/mittelstand/familienunternehmer/facebook-diversity-managerin-maxine-williams-vielfalt-fuers-valley/20480126.html?ticket=ST-5151934-tGALavZmed0Ko6C9zpUc-ap1)
 * [Hello Pride Microsoft](blogs.microsoft.com/jobs/hellopride-everybodys-company/)
+* [Gov.uk](https://gdstechnology.blog.gov.uk/2016/05/26/our-commitment-to-codebar-and-lifting-diversity-in-technology/)
 
 
 ## Game Changers
