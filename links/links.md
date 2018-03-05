@@ -9,3 +9,4 @@
 
 ## Others
 * [Friendly and inclusive Q&A community for coders](https://hashnode.com/)
+* [StartUp Teens](http://www.startupteens.de/index.php)
