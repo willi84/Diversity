@@ -5,6 +5,7 @@
 * [SAP Business Womens Network](https://blogs.sap.com/2016/12/13/sap-business-womens-network-who-we-are-and-what-we-do/)
 * [GirlDevelopIt](https://www.girldevelopit.com/)
 * [Women in Technology](http://www.womenintechnology.org/)
+* [Woman Who Code](https://www.womenwhocode.com/)
 ## Coding
 * [DjangoGirls](https://djangogirls.org/)
 * [Rails Girls](http://railsgirls.com/)  => ( [Berlin](http://railsgirlsberlin.de/)]
