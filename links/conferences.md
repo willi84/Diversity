@@ -4,6 +4,7 @@
 * [Craft Conf](https://craft-conf.com/)  => (Tickets, Speaker)
 * [RuhrJS](https://ruhrjs.de/)  => (Tickets, Speaker, Environment)
 * [JSUnconf](http://2018.jsunconf.eu/)  => (Tickets, Speaker, Environment)
+* [European Women in Tech](http://www.europeanwomenintech.com/)
 
 
 ## other
