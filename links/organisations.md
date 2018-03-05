@@ -7,6 +7,7 @@
 * [Women in Technology](http://www.womenintechnology.org/)
 * [Woman Who Code](https://www.womenwhocode.com/)
 * [Female Future Force](https://editionf.com/femalefutureforce/uber)
+* [Girls n code](http://girlsncode.com/)
 
 ## Coding
 * [DjangoGirls](https://djangogirls.org/)
