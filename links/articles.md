@@ -12,9 +12,11 @@
 * [Gov.uk](https://gdstechnology.blog.gov.uk/2016/05/26/our-commitment-to-codebar-and-lifting-diversity-in-technology/)
 
 
+
 ## Game Changers
 * [Award 2018](https://editionf.com/25-frauen-award-2018-jury-und-nominierungsstart)
 * [female Innovators](http://www.spiegel.de/netzwelt/web/walter-isaacson-steve-jobs-biograph-veroeffentlicht-the-innovators-a-1002911.html)
+* [„Weil Frauen mutig nach vorne gehen”: Das steckt hinter der Female Future Force](https://t3n.de/news/female-future-force-crowdfunding-812652/)
 
 ## Other
 * [Das Dilemma der Frauen beim Thema Selbstvertrauen](https://www.welt.de/icon/article153887198/Das-Dilemma-der-Frauen-beim-Thema-Selbstvertrauen.html)
