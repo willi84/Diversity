@@ -20,6 +20,7 @@
 
 ## Google Memo
 * [original memo](https://gizmodo.com/exclusive-heres-the-full-10-page-anti-diversity-screed-1797564320/amp)
+* [Reply from Ex-googler why he is wrong](https://medium.com/@yonatanzunger/so-about-this-googlers-manifesto-1e3773ed1788)
 
 ## Other
 * [Das Dilemma der Frauen beim Thema Selbstvertrauen](https://www.welt.de/icon/article153887198/Das-Dilemma-der-Frauen-beim-Thema-Selbstvertrauen.html)
