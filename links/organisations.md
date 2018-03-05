@@ -6,6 +6,8 @@
 * [GirlDevelopIt](https://www.girldevelopit.com/)
 * [Women in Technology](http://www.womenintechnology.org/)
 * [Woman Who Code](https://www.womenwhocode.com/)
+* [Female Future Force](https://editionf.com/femalefutureforce/uber)
+
 ## Coding
 * [DjangoGirls](https://djangogirls.org/)
 * [Rails Girls](http://railsgirls.com/)  => ( [Berlin](http://railsgirlsberlin.de/)]
