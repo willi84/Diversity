@@ -9,6 +9,7 @@
 * [DjangoGirls](https://djangogirls.org/)
 * [Rails Girls](http://railsgirls.com/)  => ( [Berlin](http://railsgirlsberlin.de/)]
 * [ngGirls](http://ng-girls.org/)
+* [NodeTogether](http://www.nodetogether.org/)
 
 ## Learning
 * [Girl Geek Academy](http://girlgeekacademy.com/)
