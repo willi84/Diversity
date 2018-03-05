@@ -1,0 +1,2 @@
+## Diversity Management
+* [Maxine Williams](http://www.handelsblatt.com/my/unternehmen/mittelstand/familienunternehmer/facebook-diversity-managerin-maxine-williams-vielfalt-fuers-valley/20480126.html?ticket=ST-5151934-tGALavZmed0Ko6C9zpUc-ap1)
