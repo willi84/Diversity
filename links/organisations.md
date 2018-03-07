@@ -9,6 +9,7 @@
 * [Female Future Force](https://editionf.com/femalefutureforce/uber)
 * [Girls n code](http://girlsncode.com/)
 * [European Women’s Development International Network ](https://www.ewmd.org/)
+* [Ladies of Code](https://www.ladiesofcode.com/)
 
 ## Coding
 * [DjangoGirls](https://djangogirls.org/)
