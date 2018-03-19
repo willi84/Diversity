@@ -5,5 +5,5 @@ exciting womens promoting diversity or being role models
 * [Mary Poppendieck](http://www.poppendieck.com/people.htm)
 
 
-## others
+## speaker
 * [Anjana Vakil](https://twitter.com/AnjanaVakil)
