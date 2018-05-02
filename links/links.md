@@ -6,6 +6,7 @@
 
 ## Speaker
 * [female Speakers](https://speakerinnen.org/en)
+* https://womentalkdesign.com/
 
 ## Others
 * [Friendly and inclusive Q&A community for coders](https://hashnode.com/)
