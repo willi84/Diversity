@@ -7,6 +7,7 @@
 ## Speaker
 * [female Speakers](https://speakerinnen.org/en)
 * https://womentalkdesign.com/
+* List fo Gerard Sans:http://bit.ly/cfpwomen   
 
 ## Others
 * [Friendly and inclusive Q&A community for coders](https://hashnode.com/)
