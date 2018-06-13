@@ -12,3 +12,9 @@
 ## Others
 * [Friendly and inclusive Q&A community for coders](https://hashnode.com/)
 * [StartUp Teens](http://www.startupteens.de/index.php)
+
+
+## Lists
+* [Coding Workshops](https://github.com/lisilinhart/awesome-coding-workshops)
+* [Fempire](https://github.com/fempire)
+* [Female Speaker](https://airtable.com/shrhKvKMEnxVJAPw1/tblfomVkRxAWhKxqz)
