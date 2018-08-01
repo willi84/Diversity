@@ -10,6 +10,7 @@
 * [Girls n code](http://girlsncode.com/)
 * [European Women’s Development International Network ](https://www.ewmd.org/)
 * [Ladies of Code](https://www.ladiesofcode.com/)
+* [Women in Tech Fund](https://womenintechfund.org/)
 
 ## Coding
 * [DjangoGirls](https://djangogirls.org/)
