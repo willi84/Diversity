@@ -16,7 +16,7 @@ connect the idea of a diversity hackathon & diversity networking corner
 * invite experts
 * connect initiatives: nggirls, women techmaker, 
 * becoming patraeon for projects
-* maybe selliing small cool products (socks, tshirts, )
+* maybe selliing small cool products (socks, tshirts, ngGirls bamboo coffee mug)
 * live micro blog
 * online hangouts
 * detecting excluding parts in angular
