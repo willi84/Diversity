@@ -20,6 +20,7 @@ connect the idea of a diversity hackathon & diversity networking corner
 * live micro blog
 * online hangouts
 * detecting excluding parts in angular
+* safe space
 
 ## requirements
 - some open and reachable place at venue, best in exhibitors area, maybe with just a sofa and a screen
