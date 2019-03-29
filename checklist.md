@@ -106,5 +106,22 @@ diversity roundtable
 - its ok not being perfect. take feedbeek not as an attack but welcome
 
 
-
-
+* Its a tool, helper a supportive
+* Violating cost money, events
+* Different lunch
+* Religious stuff
+* Political jokes
+* Child care
+* Diverse spesker
+* Environment of trust
+* As organizer be aware of ur power about attendees and contacts and misues
+* Data protection, dont share lists with others
+* A heart or a person who is nice to u doesnt mesn love
+* Digferent kind of feminism
+* Discussion about female products
+* Gender bias: gurt
+* Take active actions to mix groups also at the event: make öossibilities to connect
+* Just because u dont habe a problem doesnt mesnt itndoesnt exist
+* Take care about special group needs
+* Judge/pay/act equally (doesnr mean u can support)
+* Be transparent
