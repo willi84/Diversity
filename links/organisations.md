@@ -22,6 +22,8 @@
 ## Learning
 * [Girl Geek Academy](http://girlgeekacademy.com/)
 * [17 PLACES WHERE WOMEN CAN LEARN HOW TO CODE ](https://learntocodewith.me/posts/13-places-women-learn-code/)
+* sololearn.com
+* rorganize.it
 
 ## Internships
 * [Outreachy](https://www.outreachy.org/)
@@ -30,3 +32,6 @@
 
 ## Scholarship
 * [Overview Diversity Tickets](https://diversitytickets.org/)
+
+## Ressources
+* http://berlincodeofconduct.org
