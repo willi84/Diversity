@@ -11,7 +11,7 @@
 * [European Women’s Development International Network ](https://www.ewmd.org/)
 * [Ladies of Code](https://www.ladiesofcode.com/)
 * [Women in Tech Fund](https://womenintechfund.org/)
-* [Ladies of Code](https://www.ladiesofcode.com/)
+* [Ladies of Code](https://www.ladiesofcode.com/) (organizes by thoughtworks)
 
 ## Coding
 * [DjangoGirls](https://djangogirls.org/)
